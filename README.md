@@ -76,7 +76,3 @@ python main.py
 Shivam Tripathi
 
 GitHub: [@Shivamtripathi78](https://github.com/Shivamtripathi78)
-
-## 30-Day GitHub Project Challenge
-
-Day 4 of my 30-Day GitHub Project Challenge.
